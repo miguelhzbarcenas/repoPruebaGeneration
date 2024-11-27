@@ -1,0 +1,34 @@
+p#parrafo-uno {
+    color: #FFFFFF;
+    background-image: url(./image.jpg); 
+    /* background-color: rgb(241, 51, 114); */
+}
+body{
+    /* background-color: gray; */
+    /* background-image: url(./image.jpg); */
+    background-size: auto auto;
+}
+
+
+h1#title{             /* h1#title, p >si pones , tambien puedes agregar ese estilo a otro*/
+    font-size: 85px;
+    text-align: center;
+    padding: 40px;
+    border: 10px black solid;
+    /* margin: 600px; */
+}
+p.text{
+    font-size: 50px; 
+    /* font-style: italic; */
+    font-family: "Montserrat", sans-serif;
+    width: 400px;
+    height: 150px;
+}
+img{
+    width: 400px; 
+    height: 500px;
+}
+
+p{
+    margin-top: 10px 5px 2px 4px; /*arriba derecha abajo izquierda*/
+}
